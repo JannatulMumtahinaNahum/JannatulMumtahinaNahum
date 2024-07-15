@@ -13,7 +13,7 @@
 <br />
 <p> <a href="https://x.com/jannatul_nahum" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jannatul-mumtahina-nahum" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
-[<p align="center">  <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/JannatulMumtahinaNahum)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://x.com/jannatul_nahum)
+
 
 <br />
 
