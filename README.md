@@ -1,9 +1,9 @@
-<a href="https://www.facebook.com/JannatulMumtahinaNahum.Me">
+<a href="https://www.facebook.com/JannatulMumtahinaNahum">
 <img src="https://i.ibb.co/9c6CMgV/Blue-and-White-Gradient-Web-Developer-Linked-In-Article-Cover-Image-1.gif" />
 </a>
 <div align="center">
 
- <h1>Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I'm Azizul Islam, A Programmer and Developer <p></p></h1>
+ <h1>Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I'm Jannatul Mumtahina Nahum, A Programmer and Developer <p></p></h1>
 </div>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=JannatulMumtahinaNahum&label=Profile%20views&color=0e75b6&style=flat" alt="shakilahmedatik" /> </span> 
 
@@ -12,7 +12,7 @@
 
 <br />
 
-[<p align="center">  <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/JannatulMumtahinaNahum.Me)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://x.com/JannatulMumtahinaNahum)
+[<p align="center">  <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/JannatulMumtahinaNahum)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://x.com/jannatul_nahum)
 
 <br />
 
