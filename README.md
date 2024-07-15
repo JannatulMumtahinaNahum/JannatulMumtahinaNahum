@@ -1,5 +1,5 @@
 <a href="https://www.facebook.com/JannatulMumtahinaNahum">
-<img src="https://i.ibb.co/9c6CMgV/Blue-and-White-Gradient-Web-Developer-Linked-In-Article-Cover-Image-1.gif" />
+<img src="https://i.ibb.co/7CtLf8H/Blue-Minimalist-Personal-Facebook-Cover.gif" />
 </a>
 <div align="center">
 
