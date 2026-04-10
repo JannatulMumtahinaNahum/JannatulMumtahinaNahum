@@ -1,5 +1,5 @@
 <a href="https://www.facebook.com/JannatulMumtahinaNahum">
-<img src="https://i.ibb.co/3y0tZVL/Neutral-Modern-Web-Developer-Linked-In-Banner.gif" />
+<img src="https://i.ibb.co.com/35Zg28cx/Dark-Neon-Simple-Futuristic-UIUX-Designer-Linked-In-Banner-1.png" />
 </a>
 <div align="center">
 
